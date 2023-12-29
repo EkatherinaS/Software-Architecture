@@ -8,7 +8,7 @@
 Данный сервис необходим для работы с телеграмм-ботом: прием и отправка сообщений, генерация сообщений на основе данных из базы и изменение информации в базе на основе приходящих сообщений.
 
 <p align="center">
-<img src="./Diagrams/4C - BotService.png" width="500" title="4C - BotService">
+<img src="../src/Diagrams/4C - BotService.png" width="500" title="4C - BotService">
 </p>
 
 В данном случае нас будет интересовать части, связанные с сервисом статистики и работой репозитория базы данных.
@@ -16,14 +16,14 @@
 Сервис предназначен для генерации сообщений, содержащих данные о статистике конкретного работника или всех работников компании.
 
 <p align="center">
-<img src="./Diagrams/4C - StatisticsService.png" width="500" title="4C - StatisticsService">
+<img src="../src/Diagrams/4C - StatisticsService.png" width="500" title="4C - StatisticsService">
 </p>
 
 ### TrackerRepository
 Репозиторий предназначен для работы с базой данных (реализация операций CRUD).
 
 <p align="center">
-<img src="./Diagrams/4C - TrackerRepository.png" width="500" title="4C - TrackerRepository">
+<img src="../src/Diagrams/4C - TrackerRepository.png" width="500" title="4C - TrackerRepository">
 </p>
 
 
@@ -32,14 +32,14 @@
 ### Просмотр личной статистики отработанного времени
 
 <p align="center">
-  <img src="./Diagrams/SequenceDiagram - личная статистика.png" width="500" title="SequenceDiagram - личная статистика">
+  <img src="../src/Diagrams/SequenceDiagram - личная статистика.png" width="500" title="SequenceDiagram - личная статистика">
 </p>
 
 
 ### Просмотр подробной статистики по сотрудникам компании
 
 <p align="center">
-<img src="./Diagrams/SequenceDiagram - статистика по компании.png" width="600" title="SequenceDiagram - статистика по компании">
+<img src="../src/Diagrams/SequenceDiagram - статистика по компании.png" width="600" title="SequenceDiagram - статистика по компании">
 </p>
 
 
@@ -47,7 +47,7 @@
 На диаграмме представлены пять классов базы данных с используемыми методами. Здесь, при реализации, использовался похожий вид, однако вместо атрибута типа private и соответствующих ему методов get/set использовался краткий вариант: public string Attribute { get; set; }, так как отстутвовала необходимость в преобразовании данных для записи в базу данных или выводе из базы данных.
 
 <p align="center">
-<img src="./Diagrams/ClassDiagram - Database.png" width="800" title="ClassDiagram - Database">
+<img src="../src/Diagrams/ClassDiagram - Database.png" width="800" title="ClassDiagram - Database">
 </p>
 
 
