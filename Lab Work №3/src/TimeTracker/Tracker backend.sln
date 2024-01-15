@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracker.TelegramBot", "Tracker.TelegramBot.csproj", "{520CAF70-EBFD-4A1D-8EAD-0B4251B167AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracker.MongoDB", "Tracker.MongoDB\Tracker.MongoDB.csproj", "{6F787FF8-5C51-4E6E-B54E-7B037EDBC76C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520CAF70-EBFD-4A1D-8EAD-0B4251B167AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520CAF70-EBFD-4A1D-8EAD-0B4251B167AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520CAF70-EBFD-4A1D-8EAD-0B4251B167AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520CAF70-EBFD-4A1D-8EAD-0B4251B167AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F787FF8-5C51-4E6E-B54E-7B037EDBC76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F787FF8-5C51-4E6E-B54E-7B037EDBC76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F787FF8-5C51-4E6E-B54E-7B037EDBC76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F787FF8-5C51-4E6E-B54E-7B037EDBC76C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4914E6CB-37EC-49A7-B446-9C77A643DBD9}
+	EndGlobalSection
+EndGlobal

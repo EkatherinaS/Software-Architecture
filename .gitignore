@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Lab Work №3/src/appsettings.json
+/Lab Work №3/src/appsettings.Development.json
