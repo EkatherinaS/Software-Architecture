@@ -250,8 +250,10 @@ DBTask
 **описание:** получение имени текущей задачи, проекта и время начала выполнения
 **запрос:**
 <p align="center"><img src="../src/img/GetInitData_Request.png" width="500" title="GetInitData request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/GetInitData_Responce.png" width="500" title="GetInitData responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/GetInitData_Tests.png" width="500" title="GetInitData tests"></p>
 <p align="center"><img src="../src/img/GetInitData_Results.png" width="500" title="GetInitData test results"></p>
@@ -261,8 +263,10 @@ DBTask
 **описание:** получение списка проектов для текущего пользователя
 **запрос:**
 <p align="center"><img src="../src/img/GetProjectList_Request.png" width="500" title="GetProjectList request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/GetProjectList_Responce.png" width="500" title="GetProjectList responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/GetProjectList_Tests.png" width="500" title="GetProjectList tests"></p>
 <p align="center"><img src="../src/img/GetProjectList_Results.png" width="500" title="GetProjectList test results"></p>
@@ -272,8 +276,10 @@ DBTask
 **описание:** получение списка задач для текущего пользователя
 **запрос:**
 <p align="center"><img src="../src/img/GetTaskList_Request.png" width="500" title="GetTaskList request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/GetTaskList_Responce.png" width="500" title="GetTaskList responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/GetTaskList_Tests.png" width="500" title="GetTaskList tests"></p>
 <p align="center"><img src="../src/img/GetTaskList_Results.png" width="500" title="GetTaskList test results"></p>
@@ -283,8 +289,10 @@ DBTask
 **описание:** создание новой задачи для текущего пользователя
 **запрос:**
 <p align="center"><img src="../src/img/PostNewTask_Request.png" width="500" title="PostNewTask request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/PostNewTask_Responce.png" width="500" title="PostNewTask responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/PostNewTask_Tests.png" width="500" title="PostNewTask tests"></p>
 <p align="center"><img src="../src/img/PostNewTask_Results.png" width="500" title="PostNewTask test results"></p>
@@ -294,8 +302,10 @@ DBTask
 **описание:** создание нового проекта
 **запрос:**
 <p align="center"><img src="../src/img/PostNewProject_Request.png" width="500" title="PostNewProject request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/PostNewProject_Responce.png" width="500" title="PostNewProject responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/PostNewProject_Tests.png" width="500" title="PostNewProject tests"></p>
 <p align="center"><img src="../src/img/PostNewProject_Results.png" width="500" title="PostNewProject test results"></p>
@@ -305,8 +315,10 @@ DBTask
 **описание:** удаление задачи
 **запрос:**
 <p align="center"><img src="../src/img/DeleteTask_Request.png" width="500" title="DeleteTask request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/DeleteTask_Responce.png" width="500" title="DeleteTask responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/DeleteTask_Tests.png" width="500" title="DeleteTask tests"></p>
 <p align="center"><img src="../src/img/DeleteTask_Results.png" width="500" title="DeleteTask test results"></p>
@@ -316,8 +328,10 @@ DBTask
 **описание:** удаление проекта
 **запрос:**
 <p align="center"><img src="../src/img/DeleteProject_Request.png" width="500" title="DeleteProject request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/DeleteProject_Responce.png" width="500" title="DeleteProject responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/DeleteProject_Tests.png" width="500" title="DeleteProject tests"></p>
 <p align="center"><img src="../src/img/DeleteProject_Results.png" width="500" title="DeleteProject test results"></p>
@@ -327,8 +341,10 @@ DBTask
 **описание:** запуск задачи, при условии, что она еще не запущена
 **запрос:**
 <p align="center"><img src="../src/img/PutStartTask_Request.png" width="500" title="PutStartTask request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/PutStartTask_Responce.png" width="500" title="PutStartTask responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/PutStartTask_Tests.png" width="500" title="PutStartTask tests"></p>
 <p align="center"><img src="../src/img/PutStartTask_Results.png" width="500" title="PutStartTask test results"></p>
@@ -338,8 +354,10 @@ DBTask
 **описание:** остановка задачи при условии, что она уже запущена, но еще не остановлена
 **запрос:**
 <p align="center"><img src="../src/img/PutEndTask_Request.png" width="500" title="PutEndTask request"></p>
+
 **ответ:**
 <p align="center"><img src="../src/img/PutEndTask_Responce.png" width="500" title="PutEndTask responce"></p>
+
 **тесты:**
 <p align="center"><img src="../src/img/PutEndTask_Tests.png" width="500" title="PutEndTask tests"></p>
 <p align="center"><img src="../src/img/PutEndTask_Results.png" width="500" title="PutEndTask test results"></p>
