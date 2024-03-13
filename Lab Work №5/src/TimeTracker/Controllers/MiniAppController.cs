@@ -16,11 +16,13 @@ namespace Tracker.TelegramBot.Controllers
         /*
         private static TaskEntityService taskService = new TaskEntityService();
         private static ProjectEntityService projectService = new ProjectEntityService();
-        private static DBUserService userService = new DBUserService();
+        private static DBUserService userService = new DBUserService();;
         private static DBGPSService gpsService = new DBGPSService();
         */
 
-        private static TrackerRepositoryApi trackerRepositoryApi = new TrackerRepositoryApi("http://host.docker.public:8081/TrackerRepository/");
+        private static TrackerRepositoryApi trackerRepositoryApi = new TrackerRepositoryApi("https://localhost:7270/TrackerRepository/");
+
+        //private static TrackerRepositoryApi trackerRepositoryApi = new TrackerRepositoryApi("http://host.docker.public:5000/TrackerRepository/");
 
 
         [HttpGet]

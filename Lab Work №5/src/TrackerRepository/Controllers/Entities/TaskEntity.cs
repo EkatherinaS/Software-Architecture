@@ -10,39 +10,39 @@ namespace TrackerRepository
     {
         [Required]
         [JsonProperty("ChatId")]
-        public long ChatId { get; internal set; }
+        public long ChatId { get; set; }
 
         [Required]
         [JsonProperty("TaskName")]
-        public string TaskName { get; internal set; }
+        public string TaskName { get; set; }
 
         [JsonProperty("TaskDescription")]
-        public string? TaskDescription { get; internal set; }
+        public string? TaskDescription { get; set; }
 
         [Required]
         [JsonProperty("ProjectName")]
-        public string ProjectName { get; internal set; }
+        public string ProjectName { get; set; }
 
         [JsonProperty("ProjectDescription")]
-        public string? ProjectDescription { get; internal set; }
+        public string? ProjectDescription { get; set; }
 
         [JsonProperty("StartTime")]
-        public DateTime? StartTime { get; internal set; }
+        public DateTime? StartTime { get; set; }
 
         [JsonProperty("StartLatitude")]
-        public double? StartLatitude { get; internal set; }
+        public double? StartLatitude { get; set; }
 
         [JsonProperty("StartLongitude")]
-        public double? StartLongitude { get; internal set; }
+        public double? StartLongitude { get; set; }
 
         [JsonProperty("EndTime")]
-        public DateTime? EndTime { get; internal set; }
+        public DateTime? EndTime { get; set; }
 
         [JsonProperty("EndLatitude")]
-        public double? EndLatitude { get; internal set; }
+        public double? EndLatitude { get; set; }
 
         [JsonProperty("EndLongitude")]
-        public double? EndLongitude { get; internal set; }
+        public double? EndLongitude { get; set; }
 
 
         public bool EqualsDBTask(DBTask obj)

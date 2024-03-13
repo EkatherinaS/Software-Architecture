@@ -134,3 +134,9 @@ C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6
 C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\Tracker.TelegramBot.pdb
 C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\TrackerRepository.dll
 C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\TrackerRepository.pdb
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\Tracker.TelegramBot.deps.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\Tracker.TelegramBot.runtimeconfig.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\Tracker.TelegramBot.exe
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\TrackerRepository.deps.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\TrackerRepository.runtimeconfig.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\Tracker.Tests\bin\Debug\net6.0\TrackerRepository.exe

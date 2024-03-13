@@ -9,10 +9,10 @@ namespace TrackerRepository
     {
         [Required]
         [JsonProperty("ProjectName")]
-        public string ProjectName { get; internal set; }
+        public string ProjectName { get; set; }
 
         [JsonProperty("ProjectDescription")]
-        public string? ProjectDescription { get; internal set; }
+        public string? ProjectDescription { get; set; }
 
         public bool EqualsDBProject(DBProject obj)
         {

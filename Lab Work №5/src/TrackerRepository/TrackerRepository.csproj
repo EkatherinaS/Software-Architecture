@@ -7,7 +7,7 @@
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\TimeTracker</DockerfileContext>
     <UserSecretsId>9eb9a3b3-5575-4fba-a793-d5ffaf3b3f77</UserSecretsId>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>

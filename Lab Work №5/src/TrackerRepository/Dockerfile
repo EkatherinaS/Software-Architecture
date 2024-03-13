@@ -7,14 +7,14 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["TrackerRepository.csproj", "TrackerRepository/"]
+COPY ["TrackerRepository/TrackerRepository.csproj", "TrackerRepository/"]
 RUN dotnet restore "TrackerRepository/TrackerRepository.csproj"
 COPY . .
 WORKDIR "/src/TrackerRepository"
 RUN dotnet build "TrackerRepository.csproj" -c Release -o /app/build/TrackerRepository
 
 FROM build AS publish
-RUN dotnet publish "TrackerRepository/TrackerRepository.csproj" -c Release -o /app/publish/TrackerRepository /p:UseAppHost=false
+RUN dotnet publish "TrackerRepository.csproj" -c Release -o /app/publish/TrackerRepository /p:UseAppHost=false
 
 FROM base AS final
 WORKDIR /app

@@ -60,7 +60,7 @@ namespace TrackerRepository
         }
 
         [HttpPost]
-        public void postGPSEntity(GPSEntity dBGPS)
+        public bool postGPSEntity(GPSEntity dBGPS)
         {
             Console.WriteLine("postGPSEntity called");
             DBGPS newGPS = new DBGPS();
@@ -72,10 +72,12 @@ namespace TrackerRepository
             if (newGPS != null)
             {
                 Console.WriteLine("postGPSEntity - gps added");
+                return true;
             }
             else
             {
                 Console.WriteLine("postGPSEntity - error adding the gps");
+                return false;
             }
         }
 
@@ -247,6 +249,7 @@ namespace TrackerRepository
         public ActionResult deleteProject(ProjectEntity project)
         {
             Console.WriteLine("deleteProject called");
+
             DeleteResult result;
             List<DBTask> projectTasks = taskService.GetAll().Where(x => project.EqualsDBProject(x.Project)).ToList();
             foreach (DBTask task in projectTasks)

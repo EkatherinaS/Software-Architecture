@@ -7,7 +7,7 @@
     <UserSecretsId>1d4a644d-229e-453b-b0fd-34b06eea4bcf</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
