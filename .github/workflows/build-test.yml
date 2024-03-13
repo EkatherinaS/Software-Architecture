@@ -20,7 +20,7 @@ jobs:
         dotnet-version: 6.0.x
     - name: Restore dependencies
       working-directory: ./Lab Work №5/src
-      run: dotnet restore
+      run: echo "$PWD"
     - name: Build
       run: dotnet build ./Lab Work №5/src/Tracker backend.sln --no-restore
     - name: Test
