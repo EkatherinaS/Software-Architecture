@@ -1,0 +1,82 @@
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\appsettings.Development.json
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\appsettings.json
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\TrackerRepository.exe
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\TrackerRepository.deps.json
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\TrackerRepository.runtimeconfig.json
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\TrackerRepository.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\TrackerRepository.pdb
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\DnsClient.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\SharpCompress.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\Snappier.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\ZstdSharp.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.csproj.AssemblyReference.cache
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.AssemblyInfoInputs.cache
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.AssemblyInfo.cs
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.csproj.CoreCompileInputs.cache
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.MvcApplicationPartsAssemblyInfo.cache
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\staticwebassets\msbuild.TrackerRepository.Microsoft.AspNetCore.StaticWebAssets.props
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\staticwebassets\msbuild.build.TrackerRepository.props
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TrackerRepository.props
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrackerRepository.props
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\staticwebassets.pack.json
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\staticwebassets.build.json
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\staticwebassets.development.json
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\scopedcss\bundle\TrackerRepository.styles.css
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.csproj.CopyComplete
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\refint\TrackerRepository.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.pdb
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\TrackerRepository.genruntimeconfig.cache
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TrackerRepository\obj\Debug\net6.0\ref\TrackerRepository.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\appsettings.Development.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\appsettings.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\TrackerRepository.deps.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\TrackerRepository.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\TrackerRepository.pdb
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.csproj.AssemblyReference.cache
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.AssemblyInfoInputs.cache
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.AssemblyInfo.cs
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.csproj.CoreCompileInputs.cache
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\staticwebassets\msbuild.TrackerRepository.Microsoft.AspNetCore.StaticWebAssets.props
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\staticwebassets\msbuild.build.TrackerRepository.props
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TrackerRepository.props
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrackerRepository.props
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\staticwebassets.pack.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\staticwebassets.build.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\staticwebassets.development.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\scopedcss\bundle\TrackerRepository.styles.css
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\refint\TrackerRepository.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.pdb
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\ref\TrackerRepository.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\TrackerRepository.exe
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\TrackerRepository.runtimeconfig.json
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\DnsClient.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\SharpCompress.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\Snappier.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\ZstdSharp.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.MvcApplicationPartsAssemblyInfo.cache
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.csproj.CopyComplete
+C:\StudyProjects\ProjectRepositories\TimeTrackerBot\TrackerRepository\obj\Debug\net6.0\TrackerRepository.genruntimeconfig.cache
