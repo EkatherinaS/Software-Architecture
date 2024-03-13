@@ -1,0 +1,26 @@
+name: Build&Test
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+    - uses: actions/checkout@v3
+    - name: MongoDB in GitHub Actions
+      uses: supercharge/mongodb-github-action@1.10.0
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 6.0.x
+    - name: Restore dependencies
+      run: dotnet restore ./Lab Work №5/src
+    - name: Build
+      run: dotnet build ./Lab Work №5/src --no-restore
+    - name: Test
+      run: dotnet test ./Lab Work №5/src --no-build --verbosity normal
