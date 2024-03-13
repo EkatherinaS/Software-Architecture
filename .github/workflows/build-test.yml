@@ -19,9 +19,8 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: dotnet restore ./Lab Work №5/src/TimeTracker/Tracker.TelegramBot.csproj
-        dotnet restore ./Lab Work №5/src/Tracker.Tests/Tracker.Tests.csproj
-        dotnet restore ./Lab Work №5/src/TrackerRepository/TrackerRepository.csproj
+      working-directory: ./Lab Work №5/src
+      run: dotnet restore
     - name: Build
       run: dotnet build ./Lab Work №5/src/Tracker backend.sln --no-restore
     - name: Test
