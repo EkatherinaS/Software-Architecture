@@ -2,12 +2,12 @@ name: Build&Test
 
 on:
   push:
-    branches: [ "LabWork5" ]
+    branches: [ "LabWork5", "main" ]
   pull_request:
-    branches: [ "LabWork5" ]
+    branches: [ "LabWork5", "main" ]
 
 jobs:
-  build-test:
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 2
     steps:
@@ -20,8 +20,10 @@ jobs:
         dotnet-version: 6.0.x
     - name: Restore dependencies
       working-directory: ./Lab Work №5/src
-      run: echo "$PWD"
+      run: dotnet restore
     - name: Build
-      run: dotnet build ./Lab Work №5/src/Tracker backend.sln --no-restore
+      working-directory: ./Lab Work №5/src
+      run: dotnet build --no-restore
     - name: Test
-      run: dotnet test ./Lab Work №5/src/Tracker backend.sln --no-build --verbosity normal
+      working-directory: ./Lab Work №5/src
+      run: dotnet test --no-build --verbosity normal
