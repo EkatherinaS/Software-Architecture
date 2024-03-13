@@ -19,8 +19,8 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: dotnet restore ./Lab Work №5/src/
+      run: dotnet restore ./Lab Work №5/src/Tracker backend.sln
     - name: Build
-      run: dotnet build ./Lab Work №5/src/ --no-restore
+      run: dotnet build ./Lab Work №5/src/Tracker backend.sln --no-restore
     - name: Test
-      run: dotnet test ./Lab Work №5/src/ --no-build --verbosity normal
+      run: dotnet test ./Lab Work №5/src/Tracker backend.sln --no-build --verbosity normal
