@@ -1,0 +1,12 @@
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\bin\Debug\net6.0\Tracker.MongoDB.deps.json
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\bin\Debug\net6.0\Tracker.MongoDB.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\bin\Debug\net6.0\Tracker.MongoDB.pdb
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\Tracker.MongoDB.csproj.AssemblyReference.cache
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\Tracker.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\Tracker.MongoDB.AssemblyInfoInputs.cache
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\Tracker.MongoDB.AssemblyInfo.cs
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\Tracker.MongoDB.csproj.CoreCompileInputs.cache
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\Tracker.MongoDB.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\refint\Tracker.MongoDB.dll
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\Tracker.MongoDB.pdb
+C:\StudyProjects\ProjectRepositories\Software-Architecture\Lab Work №5\src\TimeTracker\Tracker.MongoDB\obj\Debug\net6.0\ref\Tracker.MongoDB.dll

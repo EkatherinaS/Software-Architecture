@@ -7,14 +7,6 @@ namespace Tracker.TelegramBot.Controllers.Entities
     [ModelBinder(BinderType = typeof(NewtonsoftModelBinder))]
     public class ProjectEntity
     {
-        private TaskEntity[] _tasks;
-
-        public TaskIterator getTaskIterator()
-        {
-            TaskIterator taskIterator = new TaskIterator(_tasks);
-            return taskIterator;
-        }
-
         [Required]
         [JsonProperty("ProjectName")]
         public string ProjectName { get; set; }
