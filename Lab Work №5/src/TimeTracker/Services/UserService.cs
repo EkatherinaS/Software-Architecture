@@ -24,31 +24,31 @@ namespace Tracker.TelegramBot.Services
             }
         }
 
-        //public void Request()
-        //{
-        //    _state.Handle(this);
-        //}
+        public void Request()
+        {
+            _state.Handle(this);
+        }
 
-        //public void AddFIO(string fio) 
-        //{
-        //    user.FIO = fio;
-        //}
-        //public void AddUsername(string username)
-        //{
-        //    user.Username = username;
-        //}
-        //public void AddNickname(string nickname)
-        //{
-        //    user.Nickname = nickname;
-        //}
-        //public void AddStatus(string status)
-        //{
-        //    user.Status = status;
-        //}
-        //public void AddCompany(CompanyEntity company)
-        //{
-        //    user.Company = company;
-        //}
+        public void AddFIO(string fio)
+        {
+            user.FIO = fio;
+        }
+        public void AddUsername(string username)
+        {
+            user.Username = username;
+        }
+        public void AddNickname(string nickname)
+        {
+            user.Nickname = nickname;
+        }
+        public void AddStatus(string status)
+        {
+            user.Status = status;
+        }
+        public void AddCompany(CompanyEntity company)
+        {
+            user.Company = company;
+        }
     }
 
     public abstract class State
