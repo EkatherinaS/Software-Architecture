@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+    server:
+        image: miniapp
+        build:    
+          context: .
+          dockerfile: Dockerfile
+        ports:
+          - 8080:80
+          - 35729:35729
